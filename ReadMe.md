@@ -10,6 +10,9 @@ It includes both mobile and desktop versions for better responsiveness.
 
 <img width="2834" height="2284" alt="shila-mehta github io_DropDown-Menu_ (1)" src="https://github.com/user-attachments/assets/e375886b-2c22-49fe-baa0-6d03398160f0" />
 
+<img width="1528" height="3396" alt="shila-mehta github io_DropDown-Menu_ (2)" src="https://github.com/user-attachments/assets/45d314bb-6875-44af-98c7-575dee6ccd29" />
+
+
 
 
 🎯 Features:
