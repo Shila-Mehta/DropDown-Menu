@@ -6,6 +6,12 @@ This is a simple navigation page that I built by following a design provided by 
 The project is built using HTML, CSS, and JavaScript.
 It includes both mobile and desktop versions for better responsiveness.
 
+## Project Screen Shot:
+
+<img width="2834" height="2284" alt="shila-mehta github io_DropDown-Menu_ (1)" src="https://github.com/user-attachments/assets/e375886b-2c22-49fe-baa0-6d03398160f0" />
+
+
+
 🎯 Features:
 ✅ Responsive navigation menu
 
